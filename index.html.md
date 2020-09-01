@@ -20,7 +20,7 @@ code_clipboard: true
 
 Welcome to the Project CTF² Server API Documentation!  
 
-This document describes the usage of the endpoints exposed by the Project CTF² Server, and is useful for you if you
+This document describes the usage of the endpoints exposed by the Project CTF² Server, and may be of interest to you if you
 
 * Are creating a custom client / frontend / interface for Project CTF²
 * Are [contributing](https://github.com/featherbear/CTF2/blob/master/CONTRIBUTING.md) to Project CTF²'s development
